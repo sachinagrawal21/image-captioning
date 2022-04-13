@@ -8,4 +8,4 @@ we used MobileNet as our base model but we also tried VGG16 and few others and g
 
 we used bleu score as our scoring parameter and we achieved a bleu score of 0.65
 
-all of the code are in ipyb file
+all of the code is in ipynb file
